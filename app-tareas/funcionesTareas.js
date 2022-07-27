@@ -1,9 +1,3 @@
-//
-
-//
-
-//
-
 const fs = require("fs");
 
 let funcionesTarea = {

@@ -46,5 +46,4 @@ const movies = [
   },
 ];
 
-// aventira el señor de los anillos
 module.exports = movies;
