@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Repasar temas de la clase",
+    "estado": "Terminado"
+  },
+  {
+    "titulo": "Hacer trabajos integradores",
+    "estado": "En progreso"
+  },
+  {
+    "titulo": "Entregar trabajos",
+    "estado": "Pendiente"
+  }
+]
