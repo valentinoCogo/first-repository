@@ -39,4 +39,4 @@ console.log(DHmovies.searchMoviesByGenre("Comedia"));
 console.log(DHmovies.totlaPrice());
 console.log(DHmovies.changeMovieGenre("Acción", DHmovies.searchMovidfe(5)));
 
-
+// console.log();

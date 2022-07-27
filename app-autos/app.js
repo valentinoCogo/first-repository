@@ -65,16 +65,3 @@ console.log(
     autos
   )
 );
-
-// costo total: si el total de un auto excede lo que la persona considera caro
-
-//  capacidad de pago en cuotas:
-
-if (
-  auto.precio <= persona.capacidadDePagoTotal &&
-  auto.precio / auto.cuotas <= persona.capacidadDePagoEnCuotas
-) {
-  return true;
-} else {
-  return false;
-}
